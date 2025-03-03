@@ -96,4 +96,4 @@ If you discover any security related issues, please email [security@ziggo.nl](ma
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The Apache License 2.0. Please see [License File](LICENSE.md) for more information.
