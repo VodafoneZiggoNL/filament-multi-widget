@@ -84,10 +84,6 @@ class UserMultiWidget extends MultiWidget
 
 Please see [CONTRIBUTING](https://github.com/vodafoneziggonl/.github/blob/main/CONTRIBUTING.md) for details.
 
-## Security
-
-If you discover any security related issues, please email [security@ziggo.nl](mailto:security@ziggo.nl) instead of using the issue tracker.
-
 ## Credits
 
 - [musa11971](https://github.com/musa11971)
