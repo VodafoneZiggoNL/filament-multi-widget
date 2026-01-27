@@ -17,6 +17,11 @@ This package can be installed via Composer:
 composer require vodafoneziggonl/filament-multi-widget
 ```
 
+| Package version | Supported Filament version |
+|-----------------|----------------------------|
+| **5.x**         | ^5.0                       |
+| 3.x             | ^4.0                       |
+
 ## Usage
 
 Create a new Multi Widget by extending the `VodafoneZiggoNL\MultiWidget\MultiWidget` class.
